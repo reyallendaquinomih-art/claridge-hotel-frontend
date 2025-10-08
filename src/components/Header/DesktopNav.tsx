@@ -8,7 +8,7 @@ export default function DesktopNav() {
       <HoverDropdown
         label="Rooms & Suites"
         items={[
-          { label: "Room & Packages", href: "#" },
+          { label: "Room & Packages", href: "/Room-&-Packages" },
           { label: "Specialty Suites", href: "#" },
           { label: "Vintage Themed Suites", href: "#" },
           { label: "Specialty Rooms", href: "#" },
@@ -82,4 +82,4 @@ export default function DesktopNav() {
 
     </nav>
   );
-}
+} 
